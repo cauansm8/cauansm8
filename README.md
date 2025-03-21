@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, me chamo Cauan Simões<br><br>Estou fazendo faculdade de Ciências da Computação na FCT UNESP <br>de Presidente Prudente, SP - Brasil.
+Olá, me chamo Cauan Simões da Silva<br><br>Faço faculdade de Ciências da Computação na FCT UNESP <br>de Presidente Prudente, SP - Brasil.
 
 
 ## 🌐 Socials:

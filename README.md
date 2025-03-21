@@ -1,4 +1,4 @@
-# Welcome:
+# :zap: Welcome:
 Olá, me chamo Cauan Simões da Silva<br><br>Faço faculdade de Ciências da Computação na FCT UNESP de Presidente Prudente, SP - Brasil.
 
 

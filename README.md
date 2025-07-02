@@ -1,7 +1,7 @@
 # :zap: Bem Vindo:
 Olá, me chamo Cauan Simões da Silva<br><br>Faço faculdade de Ciências da Computação na FCT UNESP de Presidente Prudente, SP - Brasil.
 
-Estudando: Estrutura de Dados, Linguagens de Programação e Programação Orientada a Objetos.
+Estudando: visualização de dados em dashboard
 
 
 ## 🌐 Redes Sociais:
